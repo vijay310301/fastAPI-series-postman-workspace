@@ -1,0 +1,1 @@
+# FastAPI series postman workspace
